@@ -6,7 +6,6 @@ Authors:
 > Salterio RAVE model: Moisés Horta Valenzuela
 > MAX 8 GUI and patch: Moisés Horta Valenzuela
 > UX/UI design: Igor Alvarez
-> Further ideation: Gabriel Walsh
 
 MVP Features:
 
