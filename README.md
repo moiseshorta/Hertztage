@@ -1,5 +1,12 @@
 # Hertztage
-Code for 'Hertztage: AI sound modelling of ancient, rare and historical musical instruments'
+Code for 'Hertztage: AI sound modelling of ancient, rare and historical musical instruments'.
+Developed during 'The Sound of AI Hackathon v1' 2022
+Authors:
+
+Salterio RAVE model: Moisés Horta Valenzuela
+MAX 8 GUI and patch: Moisés Horta Valenzuela
+UX/UI design: Igor Alvarez
+Further ideation: Gabriel Walsh
 
 MVP Features:
 
