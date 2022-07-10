@@ -4,7 +4,9 @@ Developed during 'The Sound of AI Hackathon v1' 2022
 Authors:
 
 > Salterio RAVE model: Moisés Horta Valenzuela
+> 
 > MAX 8 GUI and patch: Moisés Horta Valenzuela
+> 
 > UX/UI design: Igor Alvarez
 
 MVP Features:
